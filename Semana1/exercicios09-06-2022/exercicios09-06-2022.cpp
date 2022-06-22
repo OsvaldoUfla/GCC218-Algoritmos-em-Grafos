@@ -1,3 +1,8 @@
+/*
+solução com poucas alterações do execicío do grafo completo da 
+aula de 09-06-2022
+*/
+
 #include<utility>
 #include<vector>
 #include<iostream>
@@ -32,48 +37,51 @@ int main()
 {
     int n, m; // numero de vertices; numero de arestas do grafo
 
-    cout <<"d" << endl;
+    
     cin >> n >> m;
 
-    int** M = new int*[n+1]; // matriz de adjacencia
+    int** M = new int*[n]; // matriz de adjacencia
     
     
-    /**
-    *cria a matriz
-    */
- 
-    while(!cin.eof())
-    {
-      
-      for(int i = 1; i <= n; i++)
-      {
-          M[i] = new int[n+1];
-      }
-  
-      for(int u = 1; u <= n; u++)
-      {
-          for(int v = 1; v <= n; v++)
-          {
-              M[u][v] = 0;
-          }
-      }
+    
+    //cria a matriz
+    for(int i = 0; i < n; i++)
+	{
+		M[i] = new int[n];
+	}
 
-      // leitura do grafo
-      int u, v;
-      for(int i = 0; i < m; i++)
-      {
-        cin >> u >> v; // lendo as arestas do grafo
-        M[u][v] = 1;
-      }
-    
-    }
+	for(int u = 0; u < n; u++)
+	{
+		for(int v = 0; v < n; v++)
+		{
+			M[u][v] = 0;
+		}
+	}
+
+	// leitura do grafo
+	int u, v;
+	for(int i = 0; i < m; i++)
+	{
+		cin >> u >> v; // lendo as arestas do grafo
+		M[u-1][v-1] = 1;
+	}
+
+	//Exibe a matriz de adjacência
+	for(int u = 0; u < n; u++)
+	{
+		for(int v = 0; v < n; v++)
+		{
+			cout << M[u][v] << " ";
+		}
+		cout << endl;
+	}
     
     cout << ehCompleto(M,n) <<endl;
  
-    for(int u = 0; u <= n; u++)
-     {
+    for(int u = 0; u < n; u++)
+	{
         delete M[u];
-     }
+	}
     delete[] M;
     return 0;
 }
