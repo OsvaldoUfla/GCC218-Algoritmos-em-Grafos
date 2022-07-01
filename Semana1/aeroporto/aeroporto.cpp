@@ -5,27 +5,28 @@ using namespace std;
 
 int main()
 {
-	int m, n, maior, quantTest=0;
-	
+	int m;
+	int n;  
+	int maior = -1;
+	int quantTest=1;
 	cin >> m >>n;
-	vector<int> *aeroportos = new vector<int>;
-	
-	
+	vector<int> vectorx[2];
 	while(m > 0)
 	{
+
+		int aeroportos[m];
+		for(int j=0 ; j<m ; j++)
+		 {
+			aeroportos[j] = 0;
+		 }
+		maior=-1;
 		for(int j=0 ; j<n ; j++)
 		 {
 			int u,v;
 			cin >> u >>v;
-			aeroportos[qua]++;
+			aeroportos[u-1]++;
 			aeroportos[v-1]++;
 		 }
-		resultado.push_back()
-		quantTest++;
-	}
-================================================================================================================================
-
-		maior=-1;
 
 		for(int k =0 ; k<m ; k++)
 		{
@@ -35,20 +36,25 @@ int main()
 			}
 		}
 		
-		cout <<"Teste " << //quantTest << endl;
+		
 		for(int i=0 ; i<m ; i++)
 		{
 			if(aeroportos[i] == maior)
 			{
-				cout << i+1;
-				cout << " ";
+				vectorx[quantTest -1].push_back(i +1);
 			}
 		}
+
 		cout << endl << endl;
+		quantTest++;
 		cin >> m >>n;
-	
+
+	}
+
+	for(int i =0; i<quantTest ;i++)
+	{
+		cout << "Teste " i +1 <<endl;
+		for(vi::iterator it = vectorx[i].begin(); it != vectorx[i].end(); ++it)
+	}
 	return 0;
 }
-
-
-==================================================================================================================================
