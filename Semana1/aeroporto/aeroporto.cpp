@@ -41,20 +41,24 @@ int main()
 		{
 			if(aeroportos[i] == maior)
 			{
-				vectorx[quantTest -1].push_back(i +1);
+				vectorx[quantTest -1].push_back(i);
 			}
 		}
 
-		cout << endl << endl;
+		
 		quantTest++;
 		cin >> m >>n;
 
 	}
 
-	for(int i =0; i<quantTest ;i++)
+	for(int i =0; i<quantTest -1 ;i++)
 	{
-		cout << "Teste " i +1 <<endl;
-		for(vi::iterator it = vectorx[i].begin(); it != vectorx[i].end(); ++it)
+		cout << "Teste " << i +1 <<endl;
+		for(vector<int>::iterator it = vectorx[i].begin(); it != vectorx[i].end(); ++it)
+		{
+			cout << (*it) + 1 << " ";
+		}
+		cout << endl << endl;
 	}
 	return 0;
 }
