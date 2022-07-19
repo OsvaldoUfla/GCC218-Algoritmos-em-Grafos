@@ -8,7 +8,7 @@ int main()
 	int m;
 	int n;  
 	int maior = -1;
-	int quantTest=1;
+	int quantTest=0;
 	cin >> m >>n;
 	vector<int> vectorx[2];
 	while(m > 0)
@@ -41,7 +41,7 @@ int main()
 		{
 			if(aeroportos[i] == maior)
 			{
-				vectorx[quantTest -1].push_back(i);
+				vectorx[quantTest].push_back(i);
 			}
 		}
 
@@ -51,14 +51,14 @@ int main()
 
 	}
 
-	for(int i =0; i<quantTest -1 ;i++)
+	for(int i =0; i<quantTest;i++)
 	{
 		cout << "Teste " << i +1 <<endl;
 		for(vector<int>::iterator it = vectorx[i].begin(); it != vectorx[i].end(); ++it)
 		{
 			cout << (*it) + 1 << " ";
 		}
-		cout << endl << endl;
+		cout << endl;
 	}
 	return 0;
 }
