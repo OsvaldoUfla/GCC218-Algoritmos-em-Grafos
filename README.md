@@ -4,3 +4,5 @@ Repositório para disciplina de algoritimos em grafos UFLA
 [Exercício Aeroporto](https://github.com/OsvaldoUfla/aeroporto)
 
 [Exercícios 09-06-2022](https://github.com/OsvaldoUfla/-GCC218-Exercicios-09-06-2022/tree/main)
+
+[Exercícios Pontos-Dominantes](https://github.com/OsvaldoUfla/GCC218-Pontos-Dominantes)
