@@ -15,4 +15,6 @@ Repositório para disciplina de algoritimos em grafos UFLA
 
 [Codigo exemplo de uma Matriz de adjacencias](https://github.com/OsvaldoUfla/GCC218-MatrizDeAdjacencias)
 
+##  Exercícios da Semana 2 - Estruturas de Dados
+
 [Circuito Bioquimico Digital beecrowd](https://github.com/OsvaldoUfla/GCC218-CircuitoBioquimicoDigital)
