@@ -10,3 +10,7 @@ Repositório para disciplina de algoritimos em grafos UFLA
 [Exercício Vários Caminhos](https://github.com/OsvaldoUfla/GCC218-Varios-Caminhos)
 
 [Exercício Festa de São Peterburgo](https://github.com/OsvaldoUfla/GCC218-Festa-Sao-petersburgo)
+
+[Codigo exemplo de uma lista de adjacencias](https://github.com/OsvaldoUfla/GCC218-ListaDeAdjacencias)
+
+[Codigo exemplo de uma Matriz de adjacencias](https://github.com/OsvaldoUfla/GCC218-MatrizDeAdjacencias)
