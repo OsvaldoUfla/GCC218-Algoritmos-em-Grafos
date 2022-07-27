@@ -10,3 +10,15 @@ Repositório para disciplina de algoritimos em grafos UFLA
 [Exercício Vários Caminhos](https://github.com/OsvaldoUfla/GCC218-Varios-Caminhos)
 
 [Exercício Festa de São Peterburgo](https://github.com/OsvaldoUfla/GCC218-Festa-Sao-petersburgo)
+
+[Codigo exemplo de uma lista de adjacencias](https://github.com/OsvaldoUfla/GCC218-ListaDeAdjacencias)
+
+[Codigo exemplo de uma Matriz de adjacencias](https://github.com/OsvaldoUfla/GCC218-MatrizDeAdjacencias)
+
+##  Exercícios da Semana 2 - Estruturas de Dados
+
+[Circuito Bioquimico Digital beecrowd](https://github.com/OsvaldoUfla/GCC218-CircuitoBioquimicoDigital)
+
+
+[GCC218-BFS](https://github.com/OsvaldoUfla/GCC218-BFS)
+
