@@ -24,5 +24,5 @@ Repositório para disciplina de algoritimos em grafos UFLA
 
 [GCC218-AGM-AlgoritmoDeKruskall-ExAvaliativo1](https://github.com/OsvaldoUfla/GCC218-AGM-AlgoritmoDeKruskall-ExAvaliativo1)
 
-[GCC218-AlgoritmodeTarjan-baseado-em-DFS] (https://github.com/OsvaldoUfla/GCC218-AlgoritmodeTarjan-baseado-em-DFS)
+[GCC218-AlgoritmodeTarjan-baseado-em-DFS](https://github.com/OsvaldoUfla/GCC218-AlgoritmodeTarjan-baseado-em-DFS)
 
