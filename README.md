@@ -26,3 +26,5 @@ Repositório para disciplina de algoritimos em grafos UFLA
 
 [GCC218-AlgoritmodeTarjan-baseado-em-DFS](https://github.com/OsvaldoUfla/GCC218-AlgoritmodeTarjan-baseado-em-DFS)
 
+[GCC218-Algoritmo-de-Prim](https://github.com/OsvaldoUfla/GCC218-Algoritmo-de-Prim/tree/main)
+
