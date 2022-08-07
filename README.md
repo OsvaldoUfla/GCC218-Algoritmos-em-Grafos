@@ -30,3 +30,5 @@ Repositório para disciplina de algoritimos em grafos UFLA
 
 [Repositório do código exemplo Floyd-Warshall](https://github.com/OsvaldoUfla/GCC218-Floyd-Warshall)
 
+[Resolução atividade Encontro caminhoneiros beecrowd](https://github.com/OsvaldoUfla/GCC218-Floyd-Warshall-QueRetornaDistancia)
+
