@@ -1,3 +1,6 @@
+
+[continuar aula 21-11](https://github.com/OsvaldoUfla/aula21-11Grafos)
+
 # GCC218-Algoritmos-em-Grafos-2021-02
 Repositório para disciplina de algoritimos em grafos UFLA
 
@@ -18,10 +21,6 @@ Repositório para disciplina de algoritimos em grafos UFLA
 ##  Exercícios da Semana 2 - Estruturas de Dados
 
 [Circuito Bioquimico Digital beecrowd](https://github.com/OsvaldoUfla/GCC218-CircuitoBioquimicoDigital)
-
-
-[continuar aula 21-11](https://github.com/OsvaldoUfla/aula21-11Grafos)
-
 
 [GCC218-BFS](https://github.com/OsvaldoUfla/GCC218-BFS)
 
