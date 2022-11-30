@@ -36,5 +36,5 @@ Repositório para disciplina de algoritimos em grafos UFLA
 
 [atividadeDeimprementacao_2-GCC218](https://github.com/OsvaldoUfla/atividadeDeimprementacao_2-GCC218)  
 
-https://github.com/OsvaldoUfla/-GCC218-ExercicioAvaliativo1  
+[Exercício Avaliativo 1 Sistema Elétrico Semi-Automático ](https://github.com/OsvaldoUfla/-GCC218-ExercicioAvaliativo1)  
 
