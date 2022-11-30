@@ -18,7 +18,7 @@ Repositório para disciplina de algoritimos em grafos UFLA
 
 [Codigo exemplo de uma Matriz de adjacencias](https://github.com/OsvaldoUfla/GCC218-MatrizDeAdjacencias)
 
-##  Exercícios da Semana 2 - Estruturas de Dados
+##  Exercícios Estruturas de Dados
 
 [Circuito Bioquimico Digital beecrowd](https://github.com/OsvaldoUfla/GCC218-CircuitoBioquimicoDigital)
 
@@ -34,4 +34,7 @@ Repositório para disciplina de algoritimos em grafos UFLA
 
 [Resolução atividade Encontro caminhoneiros beecrowd](https://github.com/OsvaldoUfla/GCC218-beecrowd-2372-Reuniao/blob/main/README.md)
 
-[atividadeDeimprementacao_2-GCC218](https://github.com/OsvaldoUfla/atividadeDeimprementacao_2-GCC218)
+[atividadeDeimprementacao_2-GCC218](https://github.com/OsvaldoUfla/atividadeDeimprementacao_2-GCC218)  
+
+https://github.com/OsvaldoUfla/-GCC218-ExercicioAvaliativo1  
+
