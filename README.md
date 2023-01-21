@@ -1,8 +1,7 @@
 
 [continuar aula 21-11](https://github.com/OsvaldoUfla/aula21-11Grafos)
 
-# GCC218-Algoritmos-em-Grafos-2021-02
-Repositório para disciplina de algoritimos em grafos UFLA
+# GCC218-Algoritmos-em-Grafos - UFLA  
 
 [Exercício Aeroporto](https://github.com/OsvaldoUfla/aeroporto)
 
@@ -17,6 +16,8 @@ Repositório para disciplina de algoritimos em grafos UFLA
 [Codigo exemplo de uma lista de adjacencias](https://github.com/OsvaldoUfla/GCC218-ListaDeAdjacencias)
 
 [Codigo exemplo de uma Matriz de adjacencias](https://github.com/OsvaldoUfla/GCC218-MatrizDeAdjacencias)
+
+[Exercío Avaliativo 2](https://github.com/OsvaldoUfla/Projetando_estradas/blob/main/README.md)  
 
 ##  Exercícios Estruturas de Dados
 
