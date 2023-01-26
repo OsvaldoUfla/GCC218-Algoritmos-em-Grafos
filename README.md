@@ -27,7 +27,7 @@
 
 [AGM-AlgoritmoDeKruskall-ExAvaliativo1](https://github.com/OsvaldoUfla/GCC218-AGM-AlgoritmoDeKruskall-ExAvaliativo1)
 
-[AlgoritmodeTarjan-baseado-em-DFS](https://github.com/OsvaldoUfla/GCC218-AlgoritmodeTarjan-baseado-em-DFS)
+[Algoritmo-de-Tarjan-baseado-em-DFS](https://github.com/OsvaldoUfla/GCC218-AlgoritmodeTarjan-baseado-em-DFS)
 
 [Algoritmo-de-Prim](https://github.com/OsvaldoUfla/GCC218-Algoritmo-de-Prim/tree/main)
 
