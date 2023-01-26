@@ -38,7 +38,7 @@
 ## Caminho Mais Curto - Única Fonte e Múltiplas Fontes  
 [Bellman-Ford-Codigo exemplo](https://github.com/OsvaldoUfla/Bellman-Ford-Codigo-exemplo.git)  
 [Dijkstra-Codigo exemplo](https://github.com/OsvaldoUfla/Dijkstra-Codigo-exemplo.git)  
-[Algoritmo_de_Dijkstra-Resolução atividade Mania-de-Par_BeeCrowd_1931](https://github.com/OsvaldoUfla/Algoritmo_de_Dijkstra-Mania-de-Par_BeeCrowd_1931.git)   
+[Dijkstra-Resolução atividade Mania-de-Par_BeeCrowd_1931](https://github.com/OsvaldoUfla/Algoritmo_de_Dijkstra-Mania-de-Par_BeeCrowd_1931.git)   
 [DAG-Codigo exemplo](https://github.com/OsvaldoUfla/DAG-Codigo-exemplo.git)  
 [Floyd-Warshall-Codigo exemplo](https://github.com/OsvaldoUfla/Floyd-Warshall-Codigo-exemplo.git)   
 [Floyd-Warshall-Resolução atividade Encontro caminhoneiros beecrowd](https://github.com/OsvaldoUfla/GCC218-beecrowd-2372-Reuniao/blob/main/README.md)   
