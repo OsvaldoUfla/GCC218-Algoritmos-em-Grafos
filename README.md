@@ -29,11 +29,9 @@
 
 [Algoritmo-de-Tarjan-baseado-em-DFS](https://github.com/OsvaldoUfla/GCC218-AlgoritmodeTarjan-baseado-em-DFS)
 
-[Algoritmo-de-Prim](https://github.com/OsvaldoUfla/GCC218-Algoritmo-de-Prim/tree/main)  
+[Algoritmo-de-Prim](https://github.com/OsvaldoUfla/GCC218-Algoritmo-de-Prim/tree/main)    
 
-[Resolução atividade Encontro caminhoneiros beecrowd](https://github.com/OsvaldoUfla/GCC218-beecrowd-2372-Reuniao/blob/main/README.md)
-
-[atividadeDeimprementacao_2](https://github.com/OsvaldoUfla/atividadeDeimprementacao_2-GCC218)  
+[atividadeDeimprementacao_2](https://github.com/OsvaldoUfla/atividadeDeimprementacao_2-GCC218)   
 
 [Sistema Elétrico Semi-Automático-Exercício Avaliativo 1  ](https://github.com/OsvaldoUfla/-GCC218-ExercicioAvaliativo1)  
 
@@ -41,4 +39,6 @@
 [Bellman-Ford-Codigo exemplo](https://github.com/OsvaldoUfla/Bellman-Ford-Codigo-exemplo.git)  
 [Dijkstra-Codigo exemplo](https://github.com/OsvaldoUfla/Dijkstra-Codigo-exemplo.git)  
 [DAG-Codigo exemplo](https://github.com/OsvaldoUfla/DAG-Codigo-exemplo.git)  
-[Floyd-Warshall-Codigo exemplo](https://github.com/OsvaldoUfla/Floyd-Warshall-Codigo-exemplo.git)  
+[Floyd-Warshall-Codigo exemplo](https://github.com/OsvaldoUfla/Floyd-Warshall-Codigo-exemplo.git)   
+[Floyd-Warshall-Resolução atividade Encontro caminhoneiros beecrowd](https://github.com/OsvaldoUfla/GCC218-beecrowd-2372-Reuniao/blob/main/README.md)   
+
