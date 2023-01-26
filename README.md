@@ -29,9 +29,7 @@
 
 [Algoritmo-de-Tarjan-baseado-em-DFS](https://github.com/OsvaldoUfla/GCC218-AlgoritmodeTarjan-baseado-em-DFS)
 
-[Algoritmo-de-Prim](https://github.com/OsvaldoUfla/GCC218-Algoritmo-de-Prim/tree/main)
-
-[Floyd-Warshall-Codigo exemplo](https://github.com/OsvaldoUfla/GCC218-Floyd-Warshall)
+[Algoritmo-de-Prim](https://github.com/OsvaldoUfla/GCC218-Algoritmo-de-Prim/tree/main)  
 
 [Resolução atividade Encontro caminhoneiros beecrowd](https://github.com/OsvaldoUfla/GCC218-beecrowd-2372-Reuniao/blob/main/README.md)
 
