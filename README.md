@@ -23,19 +23,19 @@
 
 [Circuito Bioquimico Digital beecrowd](https://github.com/OsvaldoUfla/GCC218-CircuitoBioquimicoDigital)
 
-[GCC218-BFS](https://github.com/OsvaldoUfla/GCC218-BFS)
+[BFS](https://github.com/OsvaldoUfla/GCC218-BFS)
 
-[GCC218-AGM-AlgoritmoDeKruskall-ExAvaliativo1](https://github.com/OsvaldoUfla/GCC218-AGM-AlgoritmoDeKruskall-ExAvaliativo1)
+[AGM-AlgoritmoDeKruskall-ExAvaliativo1](https://github.com/OsvaldoUfla/GCC218-AGM-AlgoritmoDeKruskall-ExAvaliativo1)
 
-[GCC218-AlgoritmodeTarjan-baseado-em-DFS](https://github.com/OsvaldoUfla/GCC218-AlgoritmodeTarjan-baseado-em-DFS)
+[AlgoritmodeTarjan-baseado-em-DFS](https://github.com/OsvaldoUfla/GCC218-AlgoritmodeTarjan-baseado-em-DFS)
 
-[GCC218-Algoritmo-de-Prim](https://github.com/OsvaldoUfla/GCC218-Algoritmo-de-Prim/tree/main)
+[Algoritmo-de-Prim](https://github.com/OsvaldoUfla/GCC218-Algoritmo-de-Prim/tree/main)
 
-[Repositório do código exemplo Floyd-Warshall](https://github.com/OsvaldoUfla/GCC218-Floyd-Warshall)
+[Floyd-Warshall-Codigo exemplo](https://github.com/OsvaldoUfla/GCC218-Floyd-Warshall)
 
 [Resolução atividade Encontro caminhoneiros beecrowd](https://github.com/OsvaldoUfla/GCC218-beecrowd-2372-Reuniao/blob/main/README.md)
 
-[atividadeDeimprementacao_2-GCC218](https://github.com/OsvaldoUfla/atividadeDeimprementacao_2-GCC218)  
+[atividadeDeimprementacao_2](https://github.com/OsvaldoUfla/atividadeDeimprementacao_2-GCC218)  
 
 [Exercício Avaliativo 1 Sistema Elétrico Semi-Automático ](https://github.com/OsvaldoUfla/-GCC218-ExercicioAvaliativo1)  
 
