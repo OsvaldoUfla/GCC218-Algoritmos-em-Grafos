@@ -13,9 +13,9 @@
 
 [Exercício Festa de São Peterburgo](https://github.com/OsvaldoUfla/GCC218-Festa-Sao-petersburgo)
 
-[Codigo exemplo de uma lista de adjacencias](https://github.com/OsvaldoUfla/GCC218-ListaDeAdjacencias)
+[Lista de adjacencias-Codigo exemplo](https://github.com/OsvaldoUfla/GCC218-ListaDeAdjacencias)
 
-[Codigo exemplo de uma Matriz de adjacencias](https://github.com/OsvaldoUfla/GCC218-MatrizDeAdjacencias)
+[Matriz de adjacencias-Codigo exemplo](https://github.com/OsvaldoUfla/GCC218-MatrizDeAdjacencias)
 
 [Exercío Avaliativo 2](https://github.com/OsvaldoUfla/Projetando_estradas/blob/main/README.md)  
 
