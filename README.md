@@ -35,7 +35,7 @@
 
 [atividadeDeimprementacao_2](https://github.com/OsvaldoUfla/atividadeDeimprementacao_2-GCC218)  
 
-[Exercício Avaliativo 1 Sistema Elétrico Semi-Automático ](https://github.com/OsvaldoUfla/-GCC218-ExercicioAvaliativo1)  
+[Sistema Elétrico Semi-Automático-Exercício Avaliativo 1  ](https://github.com/OsvaldoUfla/-GCC218-ExercicioAvaliativo1)  
 
 ## Caminho Mais Curto - Única Fonte e Múltiplas Fontes  
 [Bellman-Ford-Codigo exemplo](https://github.com/OsvaldoUfla/Bellman-Ford-Codigo-exemplo.git)  
