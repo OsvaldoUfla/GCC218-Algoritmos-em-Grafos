@@ -17,7 +17,7 @@
 
 [Matriz de adjacencias-Codigo exemplo](https://github.com/OsvaldoUfla/GCC218-MatrizDeAdjacencias)
 
-[Exercío Avaliativo 2](https://github.com/OsvaldoUfla/Projetando_estradas/blob/main/README.md)  
+[Projetando estradas-Exercío Avaliativo_2](https://github.com/OsvaldoUfla/Projetando_estradas/blob/main/README.md)  
 
 ##  Exercícios Estruturas de Dados
 
