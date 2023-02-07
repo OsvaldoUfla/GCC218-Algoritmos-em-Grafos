@@ -1,7 +1,10 @@
+# GCC218-Algoritmos-em-Grafos - UFLA   
+   
+## Introdução à Teoria de Grafos  
 
-[continuar aula 21-11](https://github.com/OsvaldoUfla/aula21-11Grafos)
 
-# GCC218-Algoritmos-em-Grafos - UFLA  
+
+##  Estruturas de Dados  
 
 [Exercício Aeroporto](https://github.com/OsvaldoUfla/aeroporto)
 
@@ -18,8 +21,6 @@
 [Matriz de adjacencias-Codigo exemplo](https://github.com/OsvaldoUfla/GCC218-MatrizDeAdjacencias)
 
 [Projetando estradas-Exercío Avaliativo_2](https://github.com/OsvaldoUfla/Projetando_estradas/blob/main/README.md)  
-
-##  Exercícios Estruturas de Dados
 
 [Circuito Bioquimico Digital beecrowd](https://github.com/OsvaldoUfla/GCC218-CircuitoBioquimicoDigital)
 
@@ -44,4 +45,6 @@
 [Floyd-Warshall-Resolução atividade Encontro caminhoneiros beecrowd](https://github.com/OsvaldoUfla/GCC218-beecrowd-2372-Reuniao.git)   
 
 ## [Trabalho Prático](https://github.com/OsvaldoUfla/trabalhoPratico-GCC218-Algoritmos-em-Grafos-UFLA.git)   
+
+[continuar aula 21-11](https://github.com/OsvaldoUfla/aula21-11Grafos)
 
